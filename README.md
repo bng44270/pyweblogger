@@ -1,2 +1,1 @@
 # pyweblogger
-pyweblogger
